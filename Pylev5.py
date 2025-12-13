@@ -101,6 +101,7 @@ def fact_no(s):
     '''
 
 
+#Safe Division: Write a function to divide two numbers that handles division by zero using try-except.
 '''
 def devison_stuff(s,b):
     try:
